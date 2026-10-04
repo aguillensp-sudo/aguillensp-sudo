@@ -14,7 +14,7 @@ programar, medir lo que produce cada modelo y dejar por escrito lo que falló.
 | [**Paperdrop for Ninox**](https://github.com/nortexsys/Ninox_Tickets) | App Android (Flutter) que lee tickets y facturas en el dispositivo y los guarda en la base de Ninox del usuario. Validación determinista (dígitos de control, aritmética, tipos de IVA) en lugar de confiar en el OCR | MVP en construcción |
 | [**ninox-agent-skill**](https://github.com/aguillensp-sudo/ninox-agent-skill) | Skill para agentes que trabajan con la API de Ninox: las trampas verificadas del camino de escritura (un 500 suele ser un error de mapeo, los campos con fórmula, nunca reintentar a ciegas una creación) | Publicado |
 | [**Nexcuba**](https://github.com/nortexsys/Nexcuba) | Plataforma de ecosistema empresarial. Next.js, especificaciones con OpenSpec, e2e de accesibilidad, SEO y rendimiento | En desarrollo |
-| [**Automatizacion_BFI**](https://github.com/aguillensp-sudo/Automatizacion_BFI) | Aplicación de escritorio para Windows que extrae movimientos de extractos bancarios en PDF y los inserta en Ninox, sin escribir nada hasta que el usuario confirma y releyendo cada registro creado | En uso |
+| [**Automatizacion_BFI**](https://github.com/aguillensp-sudo/Automatizacion_BFI) | Aplicación de escritorio para Windows que extrae movimientos de extractos bancarios en PDF y los inserta en Ninox, sin escribir nada hasta que el usuario confirma y releyendo cada registro creado | Funcional; escritura verificada contra una base real |
 | [web-nortexsys](https://github.com/nortexsys/web-nortexsys) · [web-julsaindustrial](https://github.com/nortexsys/web-julsaindustrial) | Webs en Next.js, con portal de cliente y panel de administración en la segunda | Publicadas |
 
 ## Cómo trabajo
