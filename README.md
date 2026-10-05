@@ -1,10 +1,10 @@
 # Hola, soy Álvaro
 
 Fundador de [Nortex Systems](https://nortexsys.com), consultora de software a medida, IA agéntica y
-transformación digital para pymes. Trabajo desde Madrid.
+transformación digital para pymes. Trabajo desde Madrid y Tucson.
 
-Me interesa construir sistemas con agentes de IA que se puedan **verificar**: especificar antes de
-programar, medir lo que produce cada modelo y dejar por escrito lo que falló.
+Apasionado de la programación, estoy desarrollando aplicaciones con IA, con la metodología "de siempre",
+diseñar funcional y cuadernos de carga, pasar a programación y test y de ahí a producción y feedback.
 
 ## Proyectos
 
