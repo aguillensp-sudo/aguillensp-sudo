@@ -19,11 +19,10 @@ diseñar funcional y cuadernos de carga, pasar a programación y test y de ahí 
 
 ## Cómo trabajo
 
-- **Especificación primero.** Spec-Driven Development con OpenSpec; el comportamiento está escrito
-  antes que el código.
+- **Especificación primero.** Spec-Driven Development con OpenSpec; el comportamiento lo escribo antes que el código.
 - **Las reglas son comprobaciones.** Si una norma importa, la CI la hace cumplir: pureza del núcleo,
   guardas de privacidad, tipos, tests y despliegue.
-- **Medir en vez de suponer.** En Bearingworld, cada corrida del arnés que genera pantallas
+- **Medir y no suponer** En mis proyecttos, cada corrida del arnés que genera pantallas
   registra coste real, reintentos y trabajo a mano; los hallazgos quedan en un registro.
 - **El modelo que escribe el código no escribe los tests que lo evalúan.**
 
